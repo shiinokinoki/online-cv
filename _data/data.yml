@@ -96,6 +96,12 @@ experiences:
         details: |
           I worked as a researcher of formal verification
             - Research to verify the security of cryptographic protocols using formal verification.
+      - role: Software Engineer
+        time: 2020 - 2021
+        company: STANDARD Inc., Tokyo
+        details: |
+          I am working as a data scientist.
+            -  Created educational materials on machine learning models.
       - role: Software Engineer Intern
         time: 2018 - 2019
         company: Data Artist Inc., Tokyo
@@ -130,15 +136,15 @@ projects:
 publications:
     title: Publications
     papers:
-      - title: Architecture Design and Security Evaluation of Secure Optical Transport Network Using Formal Verification
-        link: "https://ieeexplore.ieee.org/document/9842633"
-        authors: Shion Maeda; Misato Nakabayashi; Tetsuya Okuda
-        conference: In 2022 IEEE 46th Annual Computers, Software, and Applications Conference (COMPSAC) (pp. 1810-1815). IEEE.
-
       - title: Entangled and correlated photon mixed strategy for social decision making
         link: "https://www.nature.com/articles/s41598-021-84199-5"
         authors: Shion Maeda, Nicolas Chauvet, Hayato Saigo, Hirokazu Hori, Guillaume Bachelier, Serge Huant & Makoto Naruse
         confefence: Scientific Reports, 11(1), 4832.
+
+      - title: Architecture Design and Security Evaluation of Secure Optical Transport Network Using Formal Verification
+        link: "https://ieeexplore.ieee.org/document/9842633"
+        authors: Shion Maeda; Misato Nakabayashi; Tetsuya Okuda
+        conference: In 2022 IEEE 46th Annual Computers, Software, and Applications Conference (COMPSAC) (pp. 1810-1815). IEEE.
 
       - title: Study on Fixed-Point Implementation of High-Speed Model Predictive Control with Guaranteed Solution Accuracy
         authors: Shion Maeda, Hiroshi Nakamura, & Hideki Takase
