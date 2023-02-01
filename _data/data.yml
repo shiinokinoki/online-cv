@@ -138,7 +138,8 @@ publications:
     papers:
       - title: Entangled and correlated photon mixed strategy for social decision making
         link: "https://www.nature.com/articles/s41598-021-84199-5"
-        authors: Shion Maeda, Nicolas Chauvet, Hayato Saigo, Hirokazu Hori, Guillaume Bachelier, Serge Huant & Makoto Naruse
+        # authors: Shion Maeda, Nicolas Chauvet, Hayato Saigo, Hirokazu Hori, Guillaume Bachelier, Serge Huant & Makoto Naruse
+        authors: Shion Maeda, Nicolas Chauvet, Hayato Saigo, Hirokazu Hori 
         confefence: Scientific Reports, 11(1), 4832.
 
       - title: Architecture Design and Security Evaluation of Secure Optical Transport Network Using Formal Verification
@@ -148,7 +149,7 @@ publications:
 
       - title: Study on Fixed-Point Implementation of High-Speed Model Predictive Control with Guaranteed Solution Accuracy
         authors: Shion Maeda, Hiroshi Nakamura, & Hideki Takase
-        conference: IEICE Technical Report RECONF2022-2(2022-06)
+        conference: IEICE Technical Report RECONF2022-2(2022-06).
 
 skills:
     title: Skills &amp; Proficiency
