@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -46,6 +46,9 @@ sidebar:
         - item: Formal Verification
           link:
 
+        - item: Control Theory
+          link:
+
 career-profile:
     title: Career Profile
     summary: |
@@ -58,12 +61,12 @@ education:
         university: The University of Tokyo
         time: 2021 - 2023
         details: |
-          My research topic was to handle ordinal scale variables in machine learning with interpreatability.
+          My research topic was to accelerate control laws using low-precision arithmetic.
       - degree: Bachelor of Engineering
         time: 2017 - 2021
         university: The University of Tokyo
         details: |
-          My research topic was accelerating parallel conjugate gradient method by matrix band-width minimization.
+          My research topic was a theoretical fusion of Gaussian process regression and control barrier functions.
 
 experiences:
     title: Experiences
@@ -75,14 +78,32 @@ experiences:
           I am working as a web3 engineer.
             - Developed smart contract.
             - Analyzed variaous onchain data.
-      - role: Software Engineer Intern
-        time: 2019 - 2021
-        company: PGV Inc., Tokyo
+      - role: Reasearch Intern
+        time: 2022/2 - 2022/3
+        company: Sony R&D Center, Tokyo
         details: |
-          I worked as a full-stack engineer in various developments
-            - Developed machine learning models for sleep analysis.
-            - Developed some android apps.
-            - Developed some library for signale process.
+          I worked as a control enginner
+            - Developed machine learning models for remote control of robots.
+      - role: Reasearch Intern
+        time: 2021/10 - 2021/12
+        company: NEC Corporation Central Research Laboratories, Tokyo
+        details: |
+          I worked as a researcher of control theory
+            - Research on the application of control barrier functions.
+      - role: Reasearch Intern
+        time: 2021/8 - 2021/10
+        company: NTT Social Informatics Laboratories
+        details: |
+          I worked as a researcher of formal verification
+            - Research to verify the security of cryptographic protocols using formal verification.
+      - role: Software Engineer Intern
+        time: 2018 - 2019
+        company: Data Artist Inc., Tokyo
+        details: |
+          I worked as a data scientist
+            - Developed machine learning models for marketing.
+            - Researched deep reinforcement learning models for optimaization problem.
+
 projects:
     title: Projects
     # intro: >
@@ -92,7 +113,7 @@ projects:
     assignments:
       - title: Chain Insight DAO
         link: https://github.com/team-tissis/cInsightDAO
-        tagline: study meeting DAO project
+        tagline: a study meeting DAO project
 
 
 # oss:
@@ -124,7 +145,6 @@ publications:
       - title: Study on Fixed-Point Implementation of High-Speed Model Predictive Control with Guaranteed Solution Accuracy
         authors: Shion Maeda, Hiroshi Nakamura, & Hideki Takase
         conference: IEICE Technical Report RECONF2022-2(2022-06)
-      - title: 
 
 skills:
     title: Skills &amp; Proficiency
