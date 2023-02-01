@@ -140,8 +140,6 @@ publications:
         authors: Shion Maeda, Nicolas Chauvet, Hayato Saigo, Hirokazu Hori, Guillaume Bachelier, Serge Huant & Makoto Naruse
         confefence: Scientific Reports, 11(1), 4832.
 
-    title: Japanese Domestic Technical Reports
-    papers:
       - title: Study on Fixed-Point Implementation of High-Speed Model Predictive Control with Guaranteed Solution Accuracy
         authors: Shion Maeda, Hiroshi Nakamura, & Hideki Takase
         conference: IEICE Technical Report RECONF2022-2(2022-06)
