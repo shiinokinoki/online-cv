@@ -52,8 +52,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am experienced in developing machine learning models, libraries, and mobile applications since 2019.
-      I am currently focused on developing various blockchain-related applications.
+      I possess a background in both machine learning engineering and control engineering, with experience in the development and deployment of machine learning models. 
+      During my time as an intern at various research institutes, I conducted research on cryptography protocols using formal verification. 
+      Currently, I am focused on web3 technology and actively engaged in on-chain data analysis and smart contract development. 
+      Additionally, I am fully dedicated to deepening my knowledge in the highly interesting field of zero-knowledge proofs.
 education:
     title: Education
     info:
@@ -89,13 +91,13 @@ experiences:
         company: NEC Corporation Central Research Laboratories, Tokyo
         details: |
           I worked as a researcher of control theory
-            - Research on the application of control barrier functions.
+            - Researched on the application of control barrier functions.
       - role: Reasearch Intern
         time: 2021/8 - 2021/10
-        company: NTT Social Informatics Laboratories
+        company: NTT Social Informatics Laboratories, Tokyo
         details: |
           I worked as a researcher of formal verification
-            - Research to verify the security of cryptographic protocols using formal verification.
+            - Researched to verify the security of cryptographic protocols using formal verification.
       - role: Data Scientist Intern
         time: 2020 - 2021
         company: STANDARD Inc., Tokyo
@@ -158,6 +160,9 @@ skills:
 
       - name: Solidity
         level: 98%
+
+      - name: Simulink
+        level: 80%
 
       - name: C++
         level: 50%
