@@ -73,26 +73,26 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Software Engineer
+      - role: Software Engineer – Web3/Crypto
         time: 2022 - Present
         company: STANDARD Inc., Tokyo
         details: |
           I am working as a web3 engineer.
             - Developed smart contract.
             - Analyzed variaous onchain data.
-      - role: Reasearch Intern
+      - role: Reasearch Intern – Control Theory
         time: 2022/2 - 2022/3
         company: Sony R&D Center, Tokyo
         details: |
           I worked as a control enginner
             - Developed machine learning models for remote control of robots.
-      - role: Reasearch Intern
+      - role: Reasearch Intern – Control Theory
         time: 2021/10 - 2021/12
         company: NEC Corporation Central Research Laboratories, Tokyo
         details: |
           I worked as a researcher of control theory
             - Researched on the application of control barrier functions.
-      - role: Reasearch Intern
+      - role: Reasearch Intern – Formal Verification
         time: 2021/8 - 2021/10
         company: NTT Social Informatics Laboratories, Tokyo
         details: |
