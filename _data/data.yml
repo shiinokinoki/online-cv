@@ -3,126 +3,98 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Shion Maeda
-    tagline: Software Engineer
-    avatar: maeda.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Shue Shiinoki
+  tagline: Software Engineer
+  avatar: shiinoki.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: 
-    phone: 
-    timezone: 
-    citizenship:
-    website: 
-    linkedin: 
-    xing: 
-    github: Shion-0014
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@0xseaaan'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 
-    languages:
-      title: Languages
-      info:
-        - idiom: Japanese
-          level: Native
+  # Sidebar links
+  email:
+  phone:
+  timezone:
+  citizenship:
+  website:
+  linkedin:
+  xing:
+  github: shiinokinoki
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter: "nokinoki_bcdev"
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf:
+  languages:
+    title: Languages
+    info:
+      - idiom: Japanese
+        level: Native
 
-        - idiom: English
-          level: Intermediate
+      - idiom: English
+        level: Intermediate
 
-    interests:
-      title: Interests
-      info:
-        - item: Blockchain
-          link:
+  interests:
+    title: Interests
+    info:
+      - item: Blockchain
+        link:
 
-        - item: Formal Verification
-          link:
-
-        - item: Control Theory
-          link:
+      - item: Neuro Science / Motor Learning
+        link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      I have a background in both machine learning engineering and control engineering, with experience in the implementation of machine learning models. 
-      During my internships at several research institutions, I conducted research on control theory and cryptography protocols using formal verification methods. 
-      Currently, I am focused on web3 technology and actively engaged in on-chain data analysis and smart contract development. 
-      Additionally, I am dedicated to deepening my knowledge in the highly interesting field of zero-knowledge proofs.
+  title: Career Profile
+  summary: |
+    I have a background in both machine learning engineering and researching of brain machine interface, with experience in the implementation of machine learning models for electroencephalogram and magnetic resonance imaging. 
+    During my internships at engineering communities and, I engaged in analyzing measurement data from industrial sensors.
+    Currently, I am focused on web3 technology and actively engaged in smart contract development.
 education:
-    title: Education
-    info:
-      - degree: Master of Information Science and Technology
-        university: The University of Tokyo
-        time: 2021 - 2023
-        details: |
-          My research topic was to accelerate control laws using low-precision arithmetic.
-      - degree: Bachelor of Engineering
-        time: 2017 - 2021
-        university: The University of Tokyo
-        details: |
-          My research topic was a theoretical fusion of Gaussian process regression and control barrier functions.
+  title: Education
+  info:
+    - degree: Graduate Program in Neuro Science
+      university: Keio University
+      time: 2022 - Present
+      details: |
+        My research topic was detection of changes in brain activity and its consolidation during motor learning.
+
+    - degree: Bachelor of Engineering
+      time: 2018 - 2022
+      university: Keio University
+      details: |
+        My research topic was brain machine interface in real world and extraction of brain activity feature extraction from electroencephalogram and magnetic resonance imaging.
 
 experiences:
-    title: Experiences
-    info:
-      - role: Software Engineer – Web3/Crypto
-        time: 2022 - Present
-        company: STANDARD Inc., Tokyo
-        details: |
-          I am working as a web3 engineer.
-            - Developed smart contract.
-            - Analyzed variaous onchain data.
-      - role: Reasearch Intern – Control Theory
-        time: 2022/2 - 2022/3
-        company: Sony R&D Center, Tokyo
-        details: |
-          I worked as a control enginner
-            - Developed machine learning models for remote control of robots.
-      - role: Reasearch Intern – Control Theory
-        time: 2021/10 - 2021/12
-        company: NEC Corporation Central Research Laboratories, Tokyo
-        details: |
-          I worked as a researcher of control theory
-            - Researched on the application of control barrier functions.
-      - role: Reasearch Intern – Formal Verification
-        time: 2021/8 - 2021/10
-        company: NTT Social Informatics Laboratories, Tokyo
-        details: |
-          I worked as a researcher of formal verification
-            - Researched to verify the security of cryptographic protocols using formal verification.
-      - role: Data Scientist Intern
-        time: 2020 - 2021
-        company: STANDARD Inc., Tokyo
-        details: |
-          I am working as a data scientist.
-            -  Created educational materials on machine learning models.
-      - role: Data Scientist Intern
-        time: 2018 - 2019
-        company: Data Artist Inc., Tokyo
-        details: |
-          I worked as a data scientist
-            - Developed machine learning models for marketing.
-            - Researched deep reinforcement learning models for optimaization problem.
+  title: Experiences
+  info:
+    - role: Software Engineer – Web3/Crypto
+      time: 2022 - Present
+      company: STANDARD Inc., Tokyo
+      details: |
+        I am working as a web3 engineer.
+          - Developed smart contract.
+          - Analyzed variaous onchain data.
+    - role: Data Scientist Intern
+      time: 2021 - 2022
+      company: STANDARD Inc., Tokyo
+      details: |
+        I worked as a data scientist
+          - Researched and Developed machine learning models for in-vehicle sensors.
+          - Researched natural language model.
 
 projects:
-    title: Projects
-    # intro: >
-    #   You can list your side projects in this
-    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Chain Insight DAO
-        link: https://github.com/team-tissis/cInsightDAO
-        tagline: a study meeting DAO project
-
+  title: Projects
+  # intro: >
+  #   You can list your side projects in this
+  #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+    - title: Polylemma
+      link: https://github.com/team-tissis/polylemma
+      tagline: a full-onchain NFT card game
 
 # oss:
 #     title: OSS Contributions
@@ -134,41 +106,31 @@ projects:
 #       # - title: A-CLASS
 #       #   link: "https://github.com/Matsushima-lab/A-CLASS"
 #       #   tagline: Additive Cumulative Logit Molde with Attribute-wiSe invariance
-      
+
 publications:
-    title: Publications
-    papers:
-      - title: Entangled and correlated photon mixed strategy for social decision making
-        link: "https://www.nature.com/articles/s41598-021-84199-5"
-        authors: Shion Maeda, Nicolas Chauvet, Hayato Saigo, Hirokazu Hori, Guillaume Bachelier, Serge Huant & Makoto Naruse
-        conference: Scientific Reports, 11(1), 4832.
-
-      - title: Architecture Design and Security Evaluation of Secure Optical Transport Network Using Formal Verification
-        link: "https://ieeexplore.ieee.org/document/9842633"
-        authors: Shion Maeda; Misato Nakabayashi; Tetsuya Okuda
-        conference: In 2022 IEEE 46th Annual Computers, Software, and Applications Conference (COMPSAC) (pp. 1810-1815). IEEE.
-
-      - title: Study on Fixed-Point Implementation of High-Speed Model Predictive Control with Guaranteed Solution Accuracy
-        authors: Shion Maeda, Hiroshi Nakamura, & Hideki Takase
-        conference: IEICE Technical Report RECONF2022-2(2022-06).
+  title: Publications/Presentations
+  papers:
+    - title: Reconstructing Whole-head Sensorimotor Activity Patterns Using Variational Auto-encoder
+      authors: Shue Shiinoki, Masumi Morishige, Seitaro Iwama, Ryotaro Hirose & Junichi Ushiba
+      conference: (Presentation) Glasgow, Organization for Human Brain Mapping 2022.
 
 skills:
-    title: Skills &amp; Proficiency
-    toolset:
-      - name: Python
-        level: 98%
+  title: Skills &amp; Proficiency
+  toolset:
+    - name: Python
+      level: 98%
 
-      - name: Solidity
-        level: 98%
+    - name: Solidity
+      level: 98%
 
-      - name: Simulink
-        level: 80%
+    - name: Matlab
+      level: 80%
 
-      - name: C++
-        level: 50%
+    - name: C++
+      level: 40%
 
-      - name: Rust
-        level: 40%
+    - name: Rust
+      level: 40%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
