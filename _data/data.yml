@@ -48,9 +48,7 @@ sidebar:
 
 career-profile:
   title: Career Profile
-  summary: |
-    With a background in both machine learning engineering and brain-machine interface research, I have experience in research and development of EEG generative models, multimodal integrative decoding models, and machine learning models for magnetic resonance imaging.
-   I also have experience working as an AI and software engineer. I have worked as a PoC development lead for major automotive and materials companies, and in ethereal full-on-chain game development, and am currently actively developing LLM-powered apps.
+  summary: With a background in both machine learning engineering and brain-machine interface research, I have experience in research and development of EEG generative models, multimodal integrative decoding models, and machine learning models for magnetic resonance imaging. I also have experience working as an AI and software engineer. I have worked as a PoC development lead for major automotive and materials companies, and in ethereal full-on-chain game development, and am currently actively developing LLM-powered apps.
 education:
   title: Education
   info:
