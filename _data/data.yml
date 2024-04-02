@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Shue Shiinoki
-  tagline: Software Engineer
+  tagline: Software Engineer, AI Engineer, Graduate student specializing in neuroscience
   avatar: shiinoki.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -40,18 +40,17 @@ sidebar:
   interests:
     title: Interests
     info:
-      - item: Blockchain
+      - item: Neuro Science / Human Intention Decoding
         link:
-
-      - item: Neuro Science / Motor Learning
+      - item: Machine Learning / AI
+      - item: Web3 / Crypto
         link:
 
 career-profile:
   title: Career Profile
   summary: |
-    I have a background in both machine learning engineering and researching of brain machine interface, with experience in the implementation of machine learning models for electroencephalogram and magnetic resonance imaging. 
-    During my internships, I engaged in analyzing measurement data from industrial sensors.
-    Currently, I am focused on web3 technology and actively engaged in smart contract development.
+    With a background in both machine learning engineering and brain-machine interface research, I have experience in research and development of EEG generative models, multimodal integrative decoding models, and machine learning models for magnetic resonance imaging.
+   I also have experience working as an AI and software engineer. I have worked as a PoC development lead for major automotive and materials companies, and in ethereal full-on-chain game development, and am currently actively developing LLM-powered apps.
 education:
   title: Education
   info:
@@ -59,7 +58,7 @@ education:
       university: Keio University
       time: 2022 - Present
       details: |
-        My research topic was detection of changes in brain activity and its consolidation during motor learning.
+        Decoding of behavioral intentions from multiple biological signals with a focus on EEG
 
     - degree: Bachelor of Engineering
       time: 2018 - 2022
@@ -70,14 +69,21 @@ education:
 experiences:
   title: Experiences
   info:
-    - role: Software Engineer – Web3/Crypto
-      time: 2022 - Present
+    - role: Lead AI Engineer
+      time: 2024 - Present
+      company: DreamIncubator Inc., Tokyo
+      details: |
+        I worked as a data scientist
+          - developing machine learning models for various industries.
+          - developing llm-powered apps.
+    - role: Software Engineer - Web3/Crypto
+      time: 2022 - 2023
       company: STANDARD Inc., Tokyo
       details: |
         I am working as a web3 engineer.
           - Developed smart contract.
           - Analyzed variaous onchain data.
-    - role: Data Scientist Intern
+    - role: Data Scientist
       time: 2021 - 2022
       company: STANDARD Inc., Tokyo
       details: |
@@ -130,6 +136,9 @@ skills:
       level: 40%
 
     - name: Rust
+      level: 40%
+    
+    - name: TypeScript
       level: 40%
 
 footer: >
